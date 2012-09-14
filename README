@@ -1,0 +1,2 @@
+This is the Spelling Checker Program in c++ which train the data using the SINGLE.txt file using the big.txt
+If you want to include any new word to this dictionary then simple add that work to the big.txt you can get it here...http://norvig.com/big.txt
